@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Faqus",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-12-03T09:46:16.270Z",
+      "notes": "",
+      "position": {
+        "lat": "30.71793411819147",
+        "lng": "31.81890732073013"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Alia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-03T13:18:19.333Z",
+      "notes": "",
+      "position": {
+        "lat": "39.43569783452213",
+        "lng": "-5.129963391633936"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Albarracin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-03T13:35:59.064Z",
+      "notes": "",
+      "position": {
+        "lat": "40.37849886176508",
+        "lng": "-1.4470848384903803"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Calanda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-08T14:50:21.036Z",
+      "notes": "",
+      "position": {
+        "lat": "40.89557873705817",
+        "lng": "-0.1953584871594161"
+      },
+      "id": 98443205
+    }
+  ]
+}
